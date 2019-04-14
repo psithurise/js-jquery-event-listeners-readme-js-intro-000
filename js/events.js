@@ -28,8 +28,6 @@ function sumbitIt() {
     alert('your form is going to be submitted now');
     return;
   }
-  alert("you entered the wrong value");
-  return;
 })
 }
 
