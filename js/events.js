@@ -21,7 +21,7 @@ function pressIt() {
  })
 }
 
-function sumbitIt() {
+function submitIt() {
  //bind submit event to form, alerts "your form is going to be submitted now."
  $('form').on('submit', function() {
     alert('Your form is going to be submitted now');
